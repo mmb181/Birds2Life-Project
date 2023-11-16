@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Robin" size="0.076200 0.040190" />
+    <ImageTarget name="Crow" size="0.076200 0.040190" />
+    <ImageTarget name="Goldfinch" size="0.076200 0.040190" />
+    <ImageTarget name="Sparrow" size="0.076200 0.040190" />
     <ImageTarget name="Cardinal_Bird" size="0.076200 0.109264" />
     <ImageTarget name="BlueJay" size="0.060000 0.037500" />
   </Tracking>
