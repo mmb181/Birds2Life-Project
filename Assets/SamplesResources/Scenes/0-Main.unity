@@ -353,10 +353,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1329033489}
     m_Modifications:
-    - target: {fileID: 100004, guid: c6045ffd0db911d418ecf014e1fbd650, type: 3}
-      propertyPath: m_Name
-      value: Astronaut
-      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: c6045ffd0db911d418ecf014e1fbd650, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -459,11 +455,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1329033488}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Astronaut
-  mDatasetName: 
-  mCastedBehaviour: {fileID: 1329033488}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &1329033487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -523,7 +514,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Astronaut
+
   mInitializedInEditor: 1
   mDataSetPath: 
   mAspectRatio: 1.7285156
