@@ -2817,7 +2817,7 @@ MonoBehaviour:
   scaleSlider: {fileID: 0}
   rotateSlider: {fileID: 0}
   scaleMinValue: 0.6
-  scaleMaxValue: 1
+  scaleMaxValue: 0.85
   rotMinValue: 0
   rotMaxValue: 360
 --- !u!1 &578005562
@@ -11000,7 +11000,7 @@ MonoBehaviour:
   scaleSlider: {fileID: 0}
   rotateSlider: {fileID: 0}
   scaleMinValue: 0.3
-  scaleMaxValue: 0.6
+  scaleMaxValue: 0.5
   rotMinValue: 0
   rotMaxValue: 360
 --- !u!1 &1976440922
